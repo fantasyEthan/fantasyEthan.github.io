@@ -4,7 +4,7 @@
  * @Author: Ethan Lyu
  * @Date: 2022-08-24 10:12:01
  * @LastEditors: Ethan Lyu
- * @LastEditTime: 2022-08-24 10:36:01
+ * @LastEditTime: 2022-08-24 10:46:36
 -->
 ---
 permalink: /
@@ -16,12 +16,12 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
 <span class='anchor' id='about-me'></span>
 
