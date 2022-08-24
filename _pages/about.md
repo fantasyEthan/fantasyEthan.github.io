@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now currently a fresh new PhD student of [AIOT Lab](https://aiot.hku.hk/) in [Department of Computer Science](https://www.cs.hku.hk/), [the University of Hong Kong (HKU)](https://www.hku.hk/), under supervision of [Chenshu Wu](https://cswu.me/). Before that, I got my BSc in Electionic Information Science and Techonogy in [Nanjing University (NJU)](https://www.nju.edu.cn).
+I am now currently a first-year PhD student of [AIOT Lab](https://aiot.hku.hk/) in [Department of Computer Science](https://www.cs.hku.hk/), [the University of Hong Kong (HKU)](https://www.hku.hk/), under supervision of [Chenshu Wu](https://cswu.me/). Before that, I got my BSc in Electionic Information Science and Techonogy from [Nanjing University (NJU)](https://www.nju.edu.cn).
 
 My current research interest is IoT systems, wireless AI perception and RF-visual sensing.
 
@@ -27,7 +27,13 @@ My current research interest is IoT systems, wireless AI perception and RF-visua
 - *2022.08*: &nbsp;🎉🎉 I join HKU as a PhD student!
 - *2022.06*: &nbsp;🎉🎉 I graduated from NJU! Thanks everyone!
 
+# 📖 Educations
+- *2022.09 - ?* | Department of Computer Science | University of Hong Kong
+- *2018.09 - 2022.06*  | School of Electronic Science and Engineering | Nanjing University
+  - Averge GPA: 4.56/5 (91.2/100), rank: 2/70(major), 4/201(school)
+
 # 📝 Publications 
+
 Working on it.
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1">  -->
@@ -42,17 +48,16 @@ Working on it.
 <!-- </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-# 📖 Educations
-- *2022.09 - ?*, Department of Computer Science, University of Hong Kong
-- *2018.09 - 2022.06* School of Electronic Science and Engineering, Nanjing University
-  - Averge GPA: 4.56/5 (91.2/100), rank: 2/70(major), 4/201(school)
+
 
 # 🎖 Honors and Awards
+
 - *2022.06* Outstanding Graduate of Nanjing University
 - *2019.12 & 2020.12 & 2021.12*   People's Scholarship of Nanjing University
-- *2020.12 & 2021.12* Outstanding Student of Nanjing University
-- *2020.12* National Scholarship
-- *2019.12* Wang Laoji Scholarship
+- *2020.12 & 2021.12* Outstanding Student of Nanjing University (top 4%)
+- *2021.12* Scholarship endowed by alumni of Physics (top 1%)
+- *2020.12* National Scholarship (top 1%)
+- *2019.12* Wang Laoji Scholarship (top 5%)
 
 # 💬 Invited Talks
 Not yet.
