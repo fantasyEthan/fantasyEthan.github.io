@@ -9,7 +9,7 @@
 title                    : "Sheng's Homepage"
 description              : "PhD student in CS@HKU"
 repository               : "fantasyEthan/fantasyEthan.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -27,7 +27,7 @@ author:
   location         : "HKSAR"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : "1"
   email            : "sheng.lyu@connect.hku.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
