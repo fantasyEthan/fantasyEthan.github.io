@@ -43,7 +43,7 @@ Working on it.
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 # 📖 Educations
-- *2022.09 - 20*, Department of Computer Science, University of Hong Kong
+- *2022.09 - ?*, Department of Computer Science, University of Hong Kong
 - *2018.09 - 2022.06* School of Electronic Science and Engineering, Nanjing University
   - Averge GPA: 4.56/5 (91.2/100), rank: 2/70(major), 4/201(school)
 
