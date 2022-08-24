@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now currently a first-year PhD student of [AIOT Lab](https://aiot.hku.hk/) in [Department of Computer Science](https://www.cs.hku.hk/), [the University of Hong Kong (HKU)](https://www.hku.hk/), under supervision of [Chenshu Wu](https://cswu.me/). Before that, I got my BSc in Electionic Information Science and Techonogy from [Nanjing University (NJU)](https://www.nju.edu.cn).
+I am now currently a first-year PhD student of [AIOT Lab](https://aiot.hku.hk/) in [Department of Computer Science](https://www.cs.hku.hk/), [the University of Hong Kong (HKU)](https://www.hku.hk/), under the supervision of [Chenshu Wu](https://cswu.me/). Before that, I got my BSc in Electionic Information Science and Techonogy from [Nanjing University (NJU)](https://www.nju.edu.cn).
 
-My current research interest is IoT systems, wireless AI perception and RF-visual sensing.
+My current research interest lies in IoT systems, wireless AI perception and RF-visual sensing.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -28,8 +28,9 @@ My current research interest is IoT systems, wireless AI perception and RF-visua
 - *2022.06*: &nbsp;🎉🎉 I graduated from NJU! Thanks everyone!
 
 # 📖 Educations
-- *2022.09 - ?* | Department of Computer Science | University of Hong Kong
-- *2018.09 - 2022.06*  | School of Electronic Science and Engineering | Nanjing University
+
+- *2022.09 - ?*, Ph.D, Department of Computer Science, University of Hong Kong
+- *2018.09 - 2022.06*, B.Sc, School of Electronic Science and Engineering, Nanjing University
   - Averge GPA: 4.56/5 (91.2/100), rank: 2/70(major), 4/201(school)
 
 # 📝 Publications 
