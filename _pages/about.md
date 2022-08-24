@@ -4,7 +4,7 @@
  * @Author: Ethan Lyu
  * @Date: 2022-08-24 10:12:01
  * @LastEditors: Ethan Lyu
- * @LastEditTime: 2022-08-24 10:46:36
+ * @LastEditTime: 2022-08-24 10:48:34
 -->
 ---
 permalink: /
@@ -25,7 +25,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now currently a fresh new PhD student [AIOT Lab](https://aiot.hku.hk/)in Department of Science, the University of Hong Kong (HKU), under the supervise of [Chenshu Wu](https://cswu.me/). Before that, I got my BSc in Electionic Information Science and Techonogy in [Nanjing University (NJU)](https://www.nju.edu.cn).
+I am now currently a fresh new PhD student [AIOT Lab](https://aiot.hku.hk/) in Department of Science, the University of Hong Kong (HKU), under the supervise of [Chenshu Wu](https://cswu.me/). Before that, I got my BSc in Electionic Information Science and Techonogy in [Nanjing University (NJU)](https://www.nju.edu.cn).
 
 My current research interest is IoT systems, wireless AI perception and RF-visual sensing.
 
@@ -52,7 +52,7 @@ Working on it.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 # 📖 Educations
-- *2022.09 - ?*, Department of Computer Science, University of Hong Kong
+- *2022.09 - 20*, Department of Computer Science, University of Hong Kong
 - *2018.09 - 2022.06* School of Electronic Science and Engineering, Nanjing University
   - Averge GPA: 4.56/5 (91.2/100), rank: 2/70(major), 4/201(school)
 
