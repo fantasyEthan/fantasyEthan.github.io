@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now currently a fresh new PhD student [AIOT Lab](https://aiot.hku.hk/) in Department of Science, the University of Hong Kong (HKU), under the supervise of [Chenshu Wu](https://cswu.me/). Before that, I got my BSc in Electionic Information Science and Techonogy in [Nanjing University (NJU)](https://www.nju.edu.cn).
+I am now currently a fresh new PhD student of [AIOT Lab](https://aiot.hku.hk/) in Department of Computer Science, the University of Hong Kong (HKU), under the supervise of [Chenshu Wu](https://cswu.me/). Before that, I got my BSc in Electionic Information Science and Techonogy in [Nanjing University (NJU)](https://www.nju.edu.cn).
 
 My current research interest is IoT systems, wireless AI perception and RF-visual sensing.
 
