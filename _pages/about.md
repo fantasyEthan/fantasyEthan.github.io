@@ -25,7 +25,7 @@ My current research interest lies in IoT systems, wireless AI perception and RF-
 
 # 🔥 News
 - *2022.08*: &nbsp;🎉🎉 I join HKU as a PhD student!
-- *2022.06*: &nbsp;🎉🎉 I graduated from NJU! Thanks everyone!
+- *2022.06*: &nbsp;🎉🎉 I graduated from NJU! Thanks to all!
 
 # 📖 Educations
 
