@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sheng's Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "PhD student in CS@HKU"
 repository               : "fantasyEthan/fantasyEthan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sheng Lyu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD student in CS@HKU"
-  location         : "Beijing, China"
+  bio              : "CS@HKU"
+  location         : "HKSAR"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
