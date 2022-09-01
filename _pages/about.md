@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a first-year PhD student of [AIOT Lab](https://aiot.hku.hk/) in [Department of Computer Science](https://www.cs.hku.hk/), [the University of Hong Kong (HKU)](https://www.hku.hk/), under the supervision of [Chenshu Wu](https://cswu.me/). Before that, I got my BSc in Electionic Information Science and Techonogy from [Nanjing University (NJU)](https://www.nju.edu.cn).
+I am now a first-year PhD student of [AIOT Lab](https://aiot.hku.hk/) in [Department of Computer Science](https://www.cs.hku.hk/), [the University of Hong Kong (HKU)](https://www.hku.hk/), under the supervision of [Dr. Chenshu Wu](https://cswu.me/). Before that, I got my BSc in Electionic Information Science and Technology from [Nanjing University (NJU)](https://www.nju.edu.cn).
 
 My current research interest lies in IoT systems, wireless AI perception and RF-visual sensing.
 
@@ -30,7 +30,7 @@ My current research interest lies in IoT systems, wireless AI perception and RF-
 # 📖 Educations
 
 - *2022.09 - ?*, Ph.D, Department of Computer Science, University of Hong Kong
-- *2018.09 - 2022.06*, B.Sc, School of Electronic Science and Engineering, Nanjing University
+- *2018.09 - 2022.06*, BSc, School of Electronic Science and Engineering, Nanjing University
   - GPA: 4.56/5 (91.2/100), rank: 2/70(major), 4/201(school)
 
 # 📝 Publications 
