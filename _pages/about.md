@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: Ethan Lyu
+ * @Date: 2022-08-24 10:12:01
+ * @LastEditors: Ethan Lyu
+ * @LastEditTime: 2022-09-02 00:36:46
+-->
 ---
 permalink: /
 title: ""
@@ -31,7 +39,7 @@ My current research interest lies in IoT systems, wireless AI perception and RF-
 
 - *2022.09 - ?*, Ph.D, Department of Computer Science, University of Hong Kong
 - *2018.09 - 2022.06*, B.Sc, School of Electronic Science and Engineering, Nanjing University
-  - Averge GPA: 4.56/5 (91.2/100), rank: 2/70(major), 4/201(school)
+  - GPA: 4.56/5 (91.2/100), rank: 2/70(major), 4/201(school)
 
 # 📝 Publications 
 
@@ -58,7 +66,7 @@ Working on it.
 - *2020.12 & 2021.12* Outstanding Student of Nanjing University (top 4%)
 - *2021.12* Scholarship endowed by alumni of Physics (top 1%)
 - *2020.12* National Scholarship (top 1%)
-- *2019.12* Wang Laoji Scholarship (top 5%)
+- *2019.12* Wong Lo Kat Scholarship (top 5%)
 
 # 💬 Invited Talks
 Not yet.
