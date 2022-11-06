@@ -19,7 +19,7 @@ redirect_from:
 
 I am now a first-year PhD student of [AIOT Lab](https://aiot.hku.hk/) in [Department of Computer Science](https://www.cs.hku.hk/), [the University of Hong Kong (HKU)](https://www.hku.hk/), under the supervision of [Dr. Chenshu Wu](https://cswu.me/). Before that, I got my BSc in Electronic Information Science and Technology from [Nanjing University (NJU)](https://www.nju.edu.cn).
 
-My current research interest lies in IoT systems, wireless AI perception and RF-visual sensing.
+My current research interest lies in IoT systems, wireless AI perception and Acoustic sensing.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
